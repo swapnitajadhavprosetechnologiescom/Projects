@@ -1,4 +1,4 @@
-# TEAM/Department_Customer Service
+# TEAM/Dept1_Customer Service
 # Contains 4 Canvas APPs designed for 4 individual Users to feed the data.
 # Supported by 12 SharePoint Lists as Data Source.
 # Its Backend Operations Managed with 8 PowerAutomate Work Flows;Out of which 4 gets called from CanvasAPP itself, and another 4 are event triggered. 
